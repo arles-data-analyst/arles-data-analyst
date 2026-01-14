@@ -6,7 +6,6 @@ Projet mis en avant :
 - Analyse comptable — Python (pandas, Matplotlib)  
   Démo : https://analyse-comptable.streamlit.app/  
   Code : https://github.com/arles-data-analyst/analyse_comptable
-  
 - Sales Analyzer — Automated sales analytics (Streamlit)
   Code : https://github.com/arles-data-analyst/sales-analyzer-mvp
 
