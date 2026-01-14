@@ -8,6 +8,7 @@ Projet mis en avant :
   Code : https://github.com/arles-data-analyst/analyse_comptable
 
 - Sales Analyzer — Automated sales analytics (Streamlit)
+
   Code : https://github.com/arles-data-analyst/sales-analyzer-mvp
 
 
