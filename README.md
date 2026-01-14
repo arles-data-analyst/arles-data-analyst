@@ -9,7 +9,7 @@ Ouvert aux missions data dans tout secteur.
 Projets mis en avant
 
 **Analyse Comptable** — application d’analyse comptable et financière
-Audit des écritures, structuration des données, indicateurs financiers, visualisations et restitution métier.
+Audit des écritures, structuration des données, indicateurs financiers, visualisations et restitution métier.   
 Technos : Python (pandas, Matplotlib)   
 Démo : https://analyse-comptable.streamlit.app/   
 Code : https://github.com/arles-data-analyst/analyse_comptable
