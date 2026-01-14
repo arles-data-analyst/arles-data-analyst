@@ -19,4 +19,5 @@ Pipeline complet : profiling qualité, nettoyage contrôlé, mapping sémantique
 Technos : Python (pandas, NumPy, Plotly), Streamlit  
 Démo : https://sales-analyzer-mvp.streamlit.app/  
 Code : https://github.com/arles-data-analyst/sales-analyzer-mvp   
+
 Contact : arles.data.analyst@gmail.com
