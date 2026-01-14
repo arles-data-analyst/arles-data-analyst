@@ -17,6 +17,7 @@ Code : https://github.com/arles-data-analyst/analyse_comptable
 - Sales Analyzer — application d’analyse automatisée des ventes et KPI direction
 Pipeline complet : profiling qualité, nettoyage contrôlé, mapping sémantique, tableaux de bord KPI, exports COMEX (CSV / Excel / PDF) et analyse YoY.
 Technos : Python (pandas, NumPy, Plotly, Streamlit)
+Démo : https://sales-analyzer-mvp.streamlit.app/
 Code : https://github.com/arles-data-analyst/sales-analyzer-mvp
 
 Contact : arles.data.analyst@gmail.com
