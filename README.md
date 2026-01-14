@@ -8,14 +8,14 @@ Ouvert aux missions data dans tout secteur.
 
 Projets mis en avant
 
-Analyse comptable — application d’analyse comptable et financière
+- Analyse comptable — application d’analyse comptable et financière
 Audit des écritures, structuration des données, indicateurs financiers, visualisations et restitution métier.
 Technos : Python (pandas, Matplotlib)
 Démo : https://analyse-comptable.streamlit.app/
 
 Code : https://github.com/arles-data-analyst/analyse_comptable
 
-Sales Analyzer — application d’analyse automatisée des ventes et KPI direction
+- Sales Analyzer — application d’analyse automatisée des ventes et KPI direction
 Pipeline complet : profiling qualité, nettoyage contrôlé, mapping sémantique, tableaux de bord KPI, exports COMEX (CSV / Excel / PDF) et analyse YoY.
 Technos : Python (pandas, NumPy, Plotly, Streamlit)
 Code : https://github.com/arles-data-analyst/sales-analyzer-mvp
