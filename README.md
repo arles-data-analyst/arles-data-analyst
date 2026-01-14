@@ -1,6 +1,6 @@
 # Arlès Fanampindrainy
 
-Data analyst — projets analytics multi-domaines (finance, retail, RH, marketing). Du nettoyage à la restitution : ingestion/qualité de données, agrégations temporelles et KPIs, visualisation, automatisation de rapports et déploiement léger (Streamlit). Stack : Python, pandas, Matplotlib, Streamlit, Git. Ouvert aux missions data dans tout secteur.
+Data analyst — projets analytics multi-domaines (finance, retail, RH, marketing). Du nettoyage à la restitution : ingestion/qualité de données, agrégations temporelles et KPIs, visualisation, automatisation de rapports et déploiement léger (Streamlit). Stack : Python, pandas, NumPy, Plotly, Streamlit, Git. Ouvert aux missions data dans tout secteur.
 
 Projet mis en avant :
 - Analyse comptable — Python (pandas, Matplotlib)  
